@@ -2,3 +2,4 @@
 /frontend/node_module
 .DS_STORE
 __pycache__
+node_modules/
